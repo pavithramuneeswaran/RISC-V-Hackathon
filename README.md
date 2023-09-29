@@ -41,7 +41,7 @@ initiates to ring the buzzer and the led glows.
 ## BLOCKDIAGRAM
      (https://github.com/pavithramuneeswaran/RISC-V-Hackathon/assets/132935465/86f5b89f-423f-4a4c-ad4a-d2f56be119c3)
 ## CLONE THIS REPOSITORY
-https://github.com/pavithramuneeswaran/contactless-doorbell/blob/main/contactless_door_bell.ino
+gh repo clone pavithramuneeswaran/RISC-V-Hackathon
 ## OBSERVATION
 
 
