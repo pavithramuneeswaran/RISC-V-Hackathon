@@ -24,7 +24,8 @@
 ## INTRODUCTION
 
 
-Recently the global pandemic caused by COVID-19 has
+         
+         Recently the global pandemic caused by COVID-19 has
 urged people to create contactless devices so that the further spreading
 of the disease can be stopped. So by keeping in view such situations, we
 have created a contactless doorbell and the idea behind making the
@@ -43,14 +44,14 @@ https://github.com/pavithramuneeswaran/contactless-doorbell/blob/main/contactles
 
 
 
-*The ultrasonic sensor contains a receiver and a transmitter and operates at a
+          *The ultrasonic sensor contains a receiver and a transmitter and operates at a
 voltage of 5 volts.
-* When the transmitter sends a signal, and if the object/body is present in the
+          * When the transmitter sends a signal, and if the object/body is present in the
 defined range of length ( 15-20 cm) from the sensor, the signal is reflected and
 is received by the receiver of the sensor .
-* The LED glows and the buzzer produces sound on interpreting the signal
+          * The LED glows and the buzzer produces sound on interpreting the signal
 and hence acts as a contactless doorbell.
-* If the signal is not reflected back, it implies that no object/body is present
+          * If the signal is not reflected back, it implies that no object/body is present
 in the vicinity of the sensor and hence the LED does not glow and the sound is
 not produced by the buzzer.
 ## AUTHORS
