@@ -8,17 +8,17 @@
 
       
 #**TABLE OF CONTENTS**:
-      *[INTRODUCTION](#introduction)
+*[INTRODUCTION](#introduction)
       
-      *[BLOCKDIAGRAM](#blockdiagram)
+*[BLOCKDIAGRAM](#blockdiagram)
       
-      *[CLONE THIS REPOSITORY](#clone-this-repository)
+*[CLONE THIS REPOSITORY](#clone-this-repository)
       
-      *[OBSERVATION](#observation)
+*[OBSERVATION](#observation)
       
-      *[AUTHORS](#authors)
+*[AUTHORS](#authors)
      
-      *[ACKNOWLEDGEMENTS](#acknowledgements)
+*[ACKNOWLEDGEMENTS](#acknowledgements)
 
       
 ## INTRODUCTION
