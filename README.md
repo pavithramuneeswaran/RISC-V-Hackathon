@@ -7,7 +7,10 @@
 
 
       
-#**TABLE OF CONTENTS**:*[INTRODUCTION](#introduction)
+#**TABLE OF CONTENTS**:
+
+
+*[INTRODUCTION](#introduction)
       
 *[BLOCKDIAGRAM](#blockdiagram)
       
