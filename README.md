@@ -44,6 +44,7 @@ https://github.com/pavithramuneeswaran/contactless-doorbell/blob/main/contactles
 
 
 
+          
           *The ultrasonic sensor contains a receiver and a transmitter and operates at a
 voltage of 5 volts.
           * When the transmitter sends a signal, and if the object/body is present in the
