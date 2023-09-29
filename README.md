@@ -8,8 +8,6 @@
 
       
 #**TABLE OF CONTENTS**:
-
-
 *[INTRODUCTION](#introduction)
       
 *[BLOCKDIAGRAM](#blockdiagram)
@@ -26,7 +24,7 @@
 ## INTRODUCTION
 
 
-        Recently the global pandemic caused by COVID-19 has
+Recently the global pandemic caused by COVID-19 has
 urged people to create contactless devices so that the further spreading
 of the disease can be stopped. So by keeping in view such situations, we
 have created a contactless doorbell and the idea behind making the
@@ -42,7 +40,10 @@ initiates to ring the buzzer and the led glows.
 ## CLONE THIS REPOSITORY
 https://github.com/pavithramuneeswaran/contactless-doorbell/blob/main/contactless_door_bell.ino
 ## OBSERVATION
-      *The ultrasonic sensor contains a receiver and a transmitter and operates at a
+
+
+
+*The ultrasonic sensor contains a receiver and a transmitter and operates at a
 voltage of 5 volts.
 * When the transmitter sends a signal, and if the object/body is present in the
 defined range of length ( 15-20 cm) from the sensor, the signal is reflected and
