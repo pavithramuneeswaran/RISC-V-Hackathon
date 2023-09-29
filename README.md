@@ -15,10 +15,13 @@
 *[CLONE THIS REPOSITORY](#clone-this-repository)
       
 *[OBSERVATION](#observation)
+
+*[FUTURE WORKS](#future-works)
       
 *[AUTHORS](#authors)
      
 *[ACKNOWLEDGEMENTS](#acknowledgements)
+
 
       
 ## INTRODUCTION
@@ -52,6 +55,12 @@ and hence acts as a contactless doorbell.
           * If the signal is not reflected back, it implies that no object/body is present
 in the vicinity of the sensor and hence the LED does not glow and the sound is
 not produced by the buzzer.
+
+## FUTURE WORKS
+       *Mini bots can be installed to interact with the visitors.
+       *Smartphone integration.
+       *Visitor log
+       
 ## AUTHORS
     J.M.KESHIKA,M.PAVITHRA B.E(ELECTRONICS AND COMMUNICATION ENGINEERING),MADRAS INSTITUTE OF TECHNOLGY,ANNA UNIVERSITY,TAMILNADU
 ## ACKNOWLEDGEMENTS
