@@ -24,8 +24,7 @@
 ## INTRODUCTION
 
 
-         
-         Recently the global pandemic caused by COVID-19 has
+Recently the global pandemic caused by COVID-19 has
 urged people to create contactless devices so that the further spreading
 of the disease can be stopped. So by keeping in view such situations, we
 have created a contactless doorbell and the idea behind making the
