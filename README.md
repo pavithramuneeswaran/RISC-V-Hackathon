@@ -39,7 +39,7 @@ When the person is standing within the defined range of
 distance, a signal is initiated from the sqadron board which in turn
 initiates to ring the buzzer and the led glows.
 ## BLOCKDIAGRAM
-     (https://github.com/pavithramuneeswaran/RISC-V-Hackathon/assets/132935465/86f5b89f-423f-4a4c-ad4a-d2f56be119c3)
+     https://github.com/pavithramuneeswaran/RISC-V-Hackathon/assets/132935465/86f5b89f-423f-4a4c-ad4a-d2f56be119c3
 ## CLONE THIS REPOSITORY
 gh repo clone pavithramuneeswaran/RISC-V-Hackathon
 ## OBSERVATION
