@@ -1,8 +1,8 @@
-CONTACTLESS DOORBELL:
+**CONTACTLESS DOORBELL**:
       This repository represents the design of doorbell made using iot.
       It is a contactless doorbell made for safety and security purposes at home 
       and other professional centres using VSD-squadron board of ISA architecture.
-#TABLE OF CONTENTS:
+#**TABLE OF CONTENTS**:
       *[INTRODUCTION](#introduction)
       *[BLOCKDIAGRAM](#blockdiagram)
       *[CLONE THIS REPOSITORY](#clone-this-repository)
